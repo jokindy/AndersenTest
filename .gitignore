@@ -1,0 +1,11 @@
+AndersenTest.iml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.xml
+
+.out
+*.class
